@@ -1,5 +1,7 @@
 # Reinforcement Learning in EDA
 
+[![Page Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fqianghan%2FRL4EDA&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
+
 Reinforcement learning (RL) has gained substantial attention in recent years. The number of arXiv submissions that contain the phrase "reinforcement learning" in the title or abstract rose from 2,086 in 2019 to 6,455 in 2024. Interest from the electronic-design-automation (EDA) community—across both industry and academia—has grown in the same time. Inspired by the work of the [Awesome-AI4EDA](https://github.com/Thinklab-SJTU/awesome-ai4eda/blob/main/README.md) collection, we introduce RL4EDA, a dedicated collection highlighting recent reinforcement learning research tailored specifically for EDA applications.
 
 ## Brief on the RL Enthusiasm
