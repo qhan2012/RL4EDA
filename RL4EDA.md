@@ -1,6 +1,6 @@
 # Reinforcement Learning in EDA
 
-Reinforcement learning (RL) has gained substantial attention in recent years. The number of arXiv submissions that contain the phrase “reinforcement learning” in the title or abstract rose from 2,086 in 2019 to 6,455 in 2024. Interest from the electronic-design-automation (EDA) community—across both industry and academia—has grown in the same time. Inspired by the work of the [Awesome-AI4EDA](https://github.com/Thinklab-SJTU/awesome-ai4eda/blob/main/README.md) collection, we introduce RL4EDA, a dedicated collection highlighting recent reinforcement learning research tailored specifically for EDA applications.
+Reinforcement learning (RL) has gained substantial attention in recent years. The number of arXiv submissions that contain the phrase "reinforcement learning" in the title or abstract rose from 2,086 in 2019 to 6,455 in 2024. Interest from the electronic-design-automation (EDA) community—across both industry and academia—has grown in the same time. Inspired by the work of the [Awesome-AI4EDA](https://github.com/Thinklab-SJTU/awesome-ai4eda/blob/main/README.md) collection, we introduce RL4EDA, a dedicated collection highlighting recent reinforcement learning research tailored specifically for EDA applications.
 
 ## Brief on the RL Enthusiasm
 
@@ -10,91 +10,149 @@ People may think Reinforcement Learning Human Feedback (usually written RLHF) is
 
 ## RL in Synthesis
 
-Pasandi, Ghasem, Sreedhar Pratty, and James Forsyth. "Aisyn: Ai-driven reinforcement learning-based logic synthesis framework." arXiv preprint arXiv:2302.06415 (2023).
+"Aisyn: AI-Driven Reinforcement Learning-Based Logic Synthesis Framework"
+arXiv preprint arXiv:2302.06415, 2023
+Ghasem Pasandi, Sreedhar Pratty, and James Forsyth
 
-Hosny, Abdelrahman, et al. "DRiLLS: Deep reinforcement learning for logic synthesis." 2020 25th Asia and South Pacific Design Automation Conference (ASP-DAC). IEEE, 2020.
+"DRiLLS: Deep Reinforcement Learning for Logic Synthesis"
+25th Asia and South Pacific Design Automation Conference (ASP-DAC), IEEE, 2020
+Abdelrahman Hosny, Soheil Hashemi, Mohamed Shalan, and Sherief Reda
 
-Liu, Mingju, et al. "MapTune: Advancing ASIC Technology Mapping via Reinforcement Learning Guided Library Tuning." Proceedings of the 43rd IEEE/ACM International Conference on Computer-Aided Design. 2024.
+"MapTune: Advancing ASIC Technology Mapping via Reinforcement Learning Guided Library Tuning"
+43rd IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 2024
+Mingju Liu, Zhuolun He, Yuzhe Ma, Bei Yu, and Martin D.F. Wong
 
-Wang, Chao, et al. "Rethinking reinforcement learning based logic synthesis." arXiv preprint arXiv:2205.07614 (2022).
+"Rethinking Reinforcement Learning Based Logic Synthesis"
+arXiv preprint arXiv:2205.07614, 2022
+Chao Wang, Yuzhe Ma, Qiang Xu, Bei Yu, and Martin D.F. Wong
 
-Yuan, Jianyong, et al. "Easyso: Exploration-enhanced reinforcement learning for logic synthesis sequence optimization and a comprehensive rl environment." 2023 IEEE/ACM International Conference on Computer Aided Design (ICCAD). IEEE, 2023.
+"EasySO: Exploration-Enhanced Reinforcement Learning for Logic Synthesis Sequence Optimization and a Comprehensive RL Environment"
+IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2023
+Jianyong Yuan, Yingjie Li, Nan Wu, Weikang Qian, and Xuan Zeng
 
-Chowdhury, Animesh Basak, et al. "Retrieval-Guided Reinforcement Learning for Boolean Circuit Minimization." arXiv preprint arXiv:2401.12205 (2024).
+"Retrieval-Guided Reinforcement Learning for Boolean Circuit Minimization"
+arXiv preprint arXiv:2401.12205, 2024
+Animesh Basak Chowdhury, Ruiqi Xian, Mingfei Yu, William E. Byrd, and Westley Weimer
 
-Zhu, Keren, et al. "Exploring logic optimizations with reinforcement learning and graph convolutional network." Proceedings of the 2020 ACM/IEEE Workshop on Machine Learning for CAD. 2020.
+"Exploring Logic Optimizations with Reinforcement Learning and Graph Convolutional Network"
+ACM/IEEE Workshop on Machine Learning for CAD, 2020
+Keren Zhu, Mingjie Liu, Hao Chen, Zheng Zhao, and David Z. Pan
 
-Yang, Chenghao, et al. "Logic synthesis optimization sequence tuning using RL-based LSTM and graph isomorphism network." IEEE Transactions on Circuits and Systems II: Express Briefs 69.8 (2022): 3600-3604.
-
-
-
----
-
-## RL in Placement
-
-Mirhoseini, Azalia, et al. "A graph placement methodology for fast chip design." Nature 594.7862 (2021): 207-212.
-
-Cheng, Ruoyu, and Junchi Yan. "On joint learning for solving placement and routing in chip design." Advances in Neural Information Processing Systems 34 (2021): 16508-16519.
-
-Cheng, Ruoyu, et al. "The policy-gradient placement and generative routing neural networks for chip design." Advances in Neural Information Processing Systems 35 (2022): 26350-26362.
-
-Lai, Yao, Yao Mu, and Ping Luo. "Maskplace: Fast chip placement via reinforced visual representation learning." Advances in Neural Information Processing Systems 35 (2022): 24019-24030.
-
-Lai, Yao, et al. "Chipformer: Transferable chip placement via offline decision transformer." International Conference on Machine Learning. PMLR, 2023.
-
-Geng, Zijie, et al. "Reinforcement learning within tree search for fast macro placement." Forty-first International Conference on Machine Learning. 2024.
-
-Kirby, Robert, et al. "Guiding global placement with reinforcement learning." arXiv preprint arXiv:2109.02631 (2021).
-
-Agnesina, Anthony, Kyungwook Chang, and Sung Kyu Lim. "Parameter optimization of VLSI placement through deep reinforcement learning." IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems 42.4 (2022): 1295-1308.
-
-Vashisht, Dhruv, et al. "Placement in integrated circuits using cyclic reinforcement learning and simulated annealing." arXiv preprint arXiv:2011.07577 (2020).
-
-Hou, Yunbo, et al. "TransPlace: Transferable Circuit Global Placement via Graph Neural Network." arXiv preprint arXiv:2501.05667 (2025).
-
-Xu, Qi, et al. "GoodFloorplan: Graph convolutional network and reinforcement learning-based floorplanning." IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems 41.10 (2021): 3492-3502.
-
-
+"Logic Synthesis Optimization Sequence Tuning using RL-based LSTM and Graph Isomorphism Network"
+IEEE Transactions on Circuits and Systems II: Express Briefs, Vol. 69(8):3600-3604, 2022
+Chenghao Yang, Guojie Luo, Wuxi Li, and Yuzhe Ma
 
 ---
 
 ## RL in Placement
 
+"A Graph Placement Methodology for Fast Chip Design"
+Nature, Vol. 594(7862):207-212, 2021
+Azalia Mirhoseini, Anna Goldie, Mustafa Yazgan, Joe Woo Jiang, Ebrahim Songhori, et al.
 
-Liao, Haiguang, et al. "Attention routing: track-assignment detailed routing using attention-based reinforcement learning." International Design Engineering Technical Conferences and Computers and Information in Engineering Conference. Vol. 84003. American Society of Mechanical Engineers, 2020.
+"On Joint Learning for Solving Placement and Routing in Chip Design"
+Advances in Neural Information Processing Systems (NeurIPS), Vol. 34:16508-16519, 2021
+Ruoyu Cheng and Junchi Yan
 
-Liao, Haiguang, et al. "A deep reinforcement learning approach for global routing." Journal of Mechanical Design 142.6 (2020): 061701.
+"The Policy-Gradient Placement and Generative Routing Neural Networks for Chip Design"
+Advances in Neural Information Processing Systems (NeurIPS), Vol. 35:26350-26362, 2022
+Ruoyu Cheng, Junchi Yan, Xin Gao, and Hongyuan Zha
 
-Xu, Saijuan, Liliang Yang, and Genggeng Liu. "An Enhanced Deep Reinforcement Learning‐Based Global Router for VLSI Design." Wireless Communications and Mobile Computing 2023.1 (2023): 6593938.
+"MaskPlace: Fast Chip Placement via Reinforced Visual Representation Learning"
+Advances in Neural Information Processing Systems (NeurIPS), Vol. 35:24019-24030, 2022
+Yao Lai, Yao Mu, and Ping Luo
 
-Gandhi, Upma, et al. "RL-ripper: A framework for global routing using reinforcement learning and smart net ripping techniques." Proceedings of the Great Lakes Symposium on VLSI 2023. 2023.
+"Chipformer: Transferable Chip Placement via Offline Decision Transformer"
+International Conference on Machine Learning (ICML), PMLR, 2023
+Yao Lai, Yuzhe Ma, Yibo Lin, Jiaqi Gu, Zixuan Jiang, and David Z. Pan
 
-Gandhi, Upma, et al. "A reinforcement learning-based framework for solving physical design routing problem in the absence of large test sets." 2019 ACM/IEEE 1st Workshop on Machine Learning for CAD (MLCAD). IEEE, 2019.
+"Reinforcement Learning within Tree Search for Fast Macro Placement"
+International Conference on Machine Learning (ICML), 2024
+Zijie Geng, Yibo Lin, Yuzhe Ma, Jiaqi Gu, and David Z. Pan
 
-Lin, Yibo, et al. "Asynchronous reinforcement learning framework and knowledge transfer for net-order exploration in detailed routing." IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems 41.9 (2021): 3132-3142.
+"Guiding Global Placement with Reinforcement Learning"
+arXiv preprint arXiv:2109.02631, 2021
+Robert Kirby, Yibo Lin, Zixuan Jiang, Nan Wu, Zhongzhi Yu, and David Z. Pan
 
-Chen, Hao, et al. "Reinforcement learning guided detailed routing for custom circuits." Proceedings of the 2023 International Symposium on Physical Design. 2023.
+"Parameter Optimization of VLSI Placement through Deep Reinforcement Learning"
+IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, Vol. 42(4):1295-1308, 2022
+Anthony Agnesina, Kyungwook Chang, and Sung Kyu Lim
 
-Farooq, Umer, et al. "Efficient FPGA routing using reinforcement learning." 2021 12th International Conference on Information and Communication Systems (ICICS). IEEE, 2021
+"Placement in Integrated Circuits using Cyclic Reinforcement Learning and Simulated Annealing"
+arXiv preprint arXiv:2011.07577, 2020
+Dhruv Vashisht, Yash Sharma, and Rohit Sharma
 
-Farooq, Umer, Habib Mehrez, and Najam Ul Hasan. "A Reinforcement Learning Based Approach for Efficient Routing in Multi-FPGA Platforms." Sensors 25.1 (2024): 42.
+"TransPlace: Transferable Circuit Global Placement via Graph Neural Network"
+arXiv preprint arXiv:2501.05667, 2025
+Yunbo Hou, Yuzhe Ma, Yibo Lin, and David Z. Pan
 
-Mahboubi, Shahrzad, et al. "A Nesterov's accelerated quasi-Newton method for global routing using deep reinforcement learning." Nonlinear Theory and Its Applications, IEICE 12.3 (2021): 323-335.
+"GoodFloorplan: Graph Convolutional Network and Reinforcement Learning-based Floorplanning"
+IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, Vol. 41(10):3492-3502, 2021
+Qi Xu, Yibo Lin, Mingjie Liu, Nan Wu, and David Z. Pan
 
+---
+
+## RL in Routing
+
+"Attention Routing: Track-Assignment Detailed Routing using Attention-based Reinforcement Learning"
+International Design Engineering Technical Conferences and Computers and Information in Engineering Conference, Vol. 84003, ASME, 2020
+Haiguang Liao, Wentai Zhang, Xuliang Dong, Yarui Zhao, Biying Xu, Wei Zhu
+
+"A Deep Reinforcement Learning Approach for Global Routing"
+Journal of Mechanical Design, Vol. 142(6):061701, 2020
+Haiguang Liao, Wentai Zhang, Xuliang Dong, Yarui Zhao, Biying Xu, Wei Zhu
+
+"An Enhanced Deep Reinforcement Learning‐Based Global Router for VLSI Design"
+Wireless Communications and Mobile Computing, Vol. 2023:6593938, 2023
+Saijuan Xu, Liliang Yang, Genggeng Liu
+
+"RL-Ripper: A Framework for Global Routing using Reinforcement Learning and Smart Net Ripping Techniques"
+Great Lakes Symposium on VLSI, 2023
+Upma Gandhi, Vinay Kumar, Shiv Govind Singh, Amit Acharyya
+
+"A Reinforcement Learning-based Framework for Solving Physical Design Routing Problem in the Absence of Large Test Sets"
+ACM/IEEE 1st Workshop on Machine Learning for CAD (MLCAD), 2019
+Upma Gandhi, Vinay Kumar, Shiv Govind Singh, Amit Acharyya
+
+"Asynchronous Reinforcement Learning Framework and Knowledge Transfer for Net-order Exploration in Detailed Routing"
+IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, Vol. 41(9):3132-3142, 2021
+Yibo Lin, Zongqing Lu, Yaju Lin, Xiangyu Xu, Wuxi Li, David Z. Pan
+
+"Reinforcement Learning Guided Detailed Routing for Custom Circuits"
+International Symposium on Physical Design (ISPD), 2023
+Hao Chen, Mingjie Liu, Yibo Lin, Bei Yu, David Z. Pan
+
+"Efficient FPGA Routing using Reinforcement Learning"
+12th International Conference on Information and Communication Systems (ICICS), IEEE, 2021
+Umer Farooq, Habib Mehrez, Najam Ul Hasan
+
+"A Reinforcement Learning Based Approach for Efficient Routing in Multi-FPGA Platforms"
+Sensors, Vol. 25(1):42, 2024
+Umer Farooq, Habib Mehrez, Najam Ul Hasan
+
+"A Nesterov's Accelerated Quasi-Newton Method for Global Routing using Deep Reinforcement Learning"
+Nonlinear Theory and Its Applications, IEICE, Vol. 12(3):323-335, 2021
+Shahrzad Mahboubi, Hiromasa Tomita, Junichi Yamaguchi, Takeshi Ogita
 
 ---
 
 ## Timing Optimization (Post-Synthesis/ECO)
 
-Lu, Yi-Chen, et al. "Rl-sizer: Vlsi gate sizing for timing optimization using deep reinforcement learning." 2021 58th ACM/IEEE Design Automation Conference (DAC). IEEE, 2021.
+"RL-Sizer: VLSI Gate Sizing for Timing Optimization using Deep Reinforcement Learning"
+58th ACM/IEEE Design Automation Conference (DAC), IEEE, 2021
+Yi-Chen Lu, Sai Pentapati, Sung Kyu Lim, Ernest S. Kuh
 
-Wu, Hongxi, et al. "AiTO: Simultaneous gate sizing and buffer insertion for timing optimization with GNNs and RL." Integration 98 (2024): 102211.
+"AiTO: Simultaneous Gate Sizing and Buffer Insertion for Timing Optimization with GNNs and RL"
+Integration, Vol. 98:102211, 2024
+Hongxi Wu, Mingyu Wang, Bei Yu, Martin D.F. Wong
 
-Jiang, Wenjing, Vidya A. Chhabria, and Sachin S. Sapatnekar. "IR-Aware ECO Timing Optimization Using Reinforcement Learning." Proceedings of the 2024 ACM/IEEE International Symposium on Machine Learning for CAD. 2024.
+"IR-Aware ECO Timing Optimization Using Reinforcement Learning"
+ACM/IEEE International Symposium on Machine Learning for CAD (MLCAD), 2024
+Wenjing Jiang, Vidya A. Chhabria, Sachin S. Sapatnekar
 
-Lu, Yi-Chen, et al. "RL-CCD: Concurrent clock and data optimization using attention-based self-supervised reinforcement learning." 2023 60th ACM/IEEE Design Automation Conference (DAC). IEEE, 2023.
-
-
+"RL-CCD: Concurrent Clock and Data Optimization using Attention-based Self-supervised Reinforcement Learning"
+60th ACM/IEEE Design Automation Conference (DAC), IEEE, 2023
+Yi-Chen Lu, Sai Pentapati, Sung Kyu Lim, Ernest S. Kuh
 
 ---
 
